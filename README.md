@@ -1,6 +1,6 @@
 # pass_manager
 REQUIREMENTS 
-- Python libraries
+- Python libraries:
   - cryptography.fernet
   - selenium 
   - json
